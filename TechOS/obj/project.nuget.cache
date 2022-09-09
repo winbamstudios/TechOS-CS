@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "nSQSMdajUuoK3zBz6XXkJVNdfRuRsYJFM0XDKiGpVw8eo4YhvgOZ+OvkxUUd74c3TeD4ETljQCGDO08qT9qycg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\willr\\source\\repos\\TechOS\\TechOS\\TechOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\willr\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20220902072458\\cosmos.build.0.1.0-localbuild20220902072458.nupkg.sha512",
+    "C:\\Users\\willr\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20220902072503\\cosmos.common.0.1.0-localbuild20220902072503.nupkg.sha512",
+    "C:\\Users\\willr\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20220902072503\\cosmos.core.0.1.0-localbuild20220902072503.nupkg.sha512",
+    "C:\\Users\\willr\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20220902072503\\cosmos.debug.kernel.0.1.0-localbuild20220902072503.nupkg.sha512",
+    "C:\\Users\\willr\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20220902072503\\cosmos.hal2.0.1.0-localbuild20220902072503.nupkg.sha512",
+    "C:\\Users\\willr\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20220902072503\\cosmos.system2.0.1.0-localbuild20220902072503.nupkg.sha512",
+    "C:\\Users\\willr\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20220902072503\\il2cpu.api.0.1.0-localbuild20220902072503.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\willr\source\repos\TechOS\TechOS\bin\Debug\net6.0\TechOS.deps.json
+C:\Users\willr\source\repos\TechOS\TechOS\bin\Debug\net6.0\TechOS.dll
+C:\Users\willr\source\repos\TechOS\TechOS\bin\Debug\net6.0\TechOS.pdb
+C:\Users\willr\source\repos\TechOS\TechOS\obj\Debug\net6.0\TechOS.csproj.AssemblyReference.cache
+C:\Users\willr\source\repos\TechOS\TechOS\obj\Debug\net6.0\TechOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willr\source\repos\TechOS\TechOS\obj\Debug\net6.0\TechOS.AssemblyInfoInputs.cache
+C:\Users\willr\source\repos\TechOS\TechOS\obj\Debug\net6.0\TechOS.AssemblyInfo.cs
+C:\Users\willr\source\repos\TechOS\TechOS\obj\Debug\net6.0\TechOS.csproj.CoreCompileInputs.cache
+C:\Users\willr\source\repos\TechOS\TechOS\obj\Debug\net6.0\TechOS.dll
+C:\Users\willr\source\repos\TechOS\TechOS\obj\Debug\net6.0\refint\TechOS.dll
+C:\Users\willr\source\repos\TechOS\TechOS\obj\Debug\net6.0\TechOS.pdb
+C:\Users\willr\source\repos\TechOS\TechOS\obj\Debug\net6.0\ref\TechOS.dll
